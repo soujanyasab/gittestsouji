@@ -12,8 +12,11 @@ public class sub {
 	public int sub()
 	{
 		System.out.println("sub method");
+
 		return arg1+arg2;
 		//aa
+//		return arg1*arg2;
+
 
 	}
 	public static void main(String[] args){
