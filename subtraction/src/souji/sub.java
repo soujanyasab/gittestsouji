@@ -23,6 +23,6 @@ public class sub {
 		sub obj=new sub(100,50);
 		System.out.println("output of subtraction" +obj.sub());
 	}
-
+//abcdefgh
 
 }
