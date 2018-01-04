@@ -24,5 +24,7 @@ public class sub {
 		System.out.println("output of subtraction" +obj.sub());
 	}
 //abcdefgh
+	//bb
+	//cc
 
 }
