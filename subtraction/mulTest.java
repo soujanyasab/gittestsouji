@@ -8,7 +8,7 @@ import junit.framework.Assert;
 
 public class mulTest {
 
-	@Test
+	@Test                                   /*Test conditions*/
 	public void test() {
 		fail("Not yet implemented");
 	}
